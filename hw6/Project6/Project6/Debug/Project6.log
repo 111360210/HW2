@@ -1,0 +1,6 @@
+﻿E:\Microsoft Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+e:\c_code\1020\hw6\source\main.c(16): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\c_code\1020\hw6\source\main.c(16): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\c_code\1020\hw6\source\main.c(13): warning C4101: 'f': 未參考的區域變數
+  Project6.vcxproj -> E:\c_code\1020\hw6\Project6\Project6\..\..\temp\debug\Project6.exe
